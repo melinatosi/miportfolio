@@ -27,22 +27,17 @@ font-family: Pacifico;
 background-color: rgb(003,121,134);
 color: white;
 text-align: center;
-padding: 20px;
-margin: 0px;
+border: 0;
+padding: 30px;
 }
 
 .fondo {
-
   background-color: rgb(003,121,134);
   color: white;
   text-align: center
 }
  .fondoblanco{
    margin-top: 20px;
-   background-color: white;
+   background-color: rgb(230,236,237);
    color: black;
-  }
-
-#redes{
-  container-fluid
   }
